@@ -1,5 +1,5 @@
 # Adelina Racaj
-Here you'll find the of my paper "Analysing Bilingual Collocational Expressions with AntConc" and my contacts.
+Here you'll find a summary of my paper "Analysing Bilingual Collocational Expressions with AntConc" and my contacts.
 
 # Contact Information 
  :email: Email: adelinaracaj@live.it  
