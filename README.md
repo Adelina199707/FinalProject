@@ -1,9 +1,7 @@
 # Adelina Racaj
 Here you'll find the of my paper "Analysing Bilingual Collocational Expressions with AntConc" and my contacts.
 
-# Contact Information
- :house: Address: Chemin des Mérinos 4, 1212 Lancy, Genève (CH)  
- :telephone_receiver: Telephone: +41 76 747 64 26  
+# Contact Information 
  :email: Email: adelinaracaj@live.it  
  :date: Date of Birth: 08.07.1997  
  :it: Nationality: Italian  
