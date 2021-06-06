@@ -1,0 +1,158 @@
+/* CSS Document */
+
+body {
+	background-color:#fff;
+	background-position:center;
+	background-repeat:repeat-y;
+	font-family: "Lucida Grande","Lucida Sans Unicode",geneva,verdana,sans-serif;
+	font-size:10px;
+	color:rgb(14, 3, 12);
+	text-align: justify;
+  	text-justify: inter-word;
+}
+#container {
+	width:1000px;
+	margin:0 auto;
+}
+
+#header {
+	background-color:#eeeeee;
+	margin:10px;
+	padding:30px 10px 30px 10px;
+	border-top:2px solid #ccc;
+}
+
+#header h1 {
+	text-align:center;
+	font-family:Trebuchet MS, Geneva, Arial, Helvetica, sans-serif;
+	font-size:30px;
+	color:#333;
+	margin:0;
+	font-weight:normal;
+}
+#header h1 strong {
+	color:#A85BA6;
+}
+#header h1 a {
+	color:#333;
+	text-decoration:none;
+}
+#header h2 {
+	font-size:11px;
+	font-weight:normal;
+	text-align:center;
+	color:rgb(8, 8, 8);
+}
+#header h3 {
+	font-size:11px;
+	font-weight:normal;
+	text-align:center;
+	color: black;
+}
+
+#sidebar {
+	float:right;
+	width:250px;
+	width:250px;
+	margin:auto;
+}
+
+#sidebar h1 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#000;
+	margin:10px 5px 15px 10px;
+}
+#sidebar p {
+	padding:5px;
+	margin:5px 5px 5px 10px;
+	line-height:17px;
+	word-spacing:-1px;
+}
+
+ul.submenu {
+	margin:0;
+	padding:10px;
+}
+.submenu li {
+	margin:5px 0 5px 0;
+	border-bottom:1px solid #f6f6f6;
+	padding:0 0 5px 20px;
+	list-style:none;
+	background-color: thistle;
+}
+.submenu a {
+	display:block;
+	height:13px;
+	padding:auto;
+	margin:1px 0 0 0;
+}
+.submenu a:hover {
+	color: whitesmoke;
+	padding:7px 7px 7px 15px;
+}
+
+.note {
+	padding:10px;
+	background-color:rgb(245, 214, 241);
+	border:1px solid rgb(88, 18, 88);
+	margin:20px 5px 20px 5px;
+}
+
+
+#content {
+	margin:10px 185px 10px 10px;
+}
+#content h1 {
+	font-family:Trebuchet MS, Geneva, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	border-bottom:1px solid #eee;
+	padding:0px;
+	color:#000;
+}
+
+#content h2 {
+	font-size:11px;
+	color:black;
+	margin:10px 0 10px 0;
+	padding:5px;
+}
+#content p {
+	padding:5px;
+	line-height:18px;
+	word-spacing: 0.1em;
+}
+
+
+#content ul {
+	margin:0 0 0 15px;
+	padding:0;
+	border-top:1px solid #f6f6f6;
+}
+#content li{
+	margin:5px 0 5px 0;
+	border-bottom:1px solid #f6f6f6;
+	padding:0 0 5px 20px;
+	list-style:none;
+	background-color: thistle;
+}
+
+
+#content blockquote {
+	background-color:rgb(245, 214, 241);
+	margin:4px;
+	padding:5px;
+	border-top:1px solid rgb(88, 18, 88);
+	border-bottom:1px solid rgb(88, 18, 88);
+}
+#content blockquote p {
+	margin:0;
+	padding:0 10px 0 10px;
+}
+
+#footer {
+	background-color: rgb(200, 200, 204);
+	border-top:2px solid rgb(88, 18, 88);
+	padding:10px;
+	text-align:center;
+}
